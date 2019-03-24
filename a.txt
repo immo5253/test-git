@@ -1,6 +1,1 @@
-<<<<<<< HEAD
 aaaadev1
-=======
-aaaamas1
-
->>>>>>> master
